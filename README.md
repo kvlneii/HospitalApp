@@ -33,4 +33,5 @@ This is a project for creating a medical API using ASP.NET Core, Entity Framewor
 10. Custom Middleware for Error Logging:
     * Create custom middleware to log errors to a text file (e.g., "logs.txt").
 ## Database model
-![hospitalDB](https://github.com/kvlneii/HospitalApp/assets/95699279/98beb0d9-03fc-40d6-8973-32c41d12c8fc)
+![hospitalDB](https://github.com/kvlneii/HospitalApp/assets/95699279/5a49f966-e9dd-409f-8d58-9ad6a31fdec3)
+
